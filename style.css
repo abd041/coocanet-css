@@ -1,4 +1,22 @@
-       html,
+  @media(min-width: 1200px) {
+            .hidden-1exbyug {
+                display: none !important
+            }
+        }
+
+        @media(min-width: 810px) and (max-width: 1199px) {
+            .hidden-11hy0g5 {
+                display: none !important
+            }
+        }
+
+        @media(max-width: 809px) {
+            .hidden-15gyq9a {
+                display: none !important
+            }
+        }
+
+html,
         body,
         #main {
             margin: 0;
